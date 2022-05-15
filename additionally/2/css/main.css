@@ -1,0 +1,142 @@
+body{
+	font-size: 15px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #2f2a3b;
+	padding: 0;
+	margin: 0;
+	font-weight: 400;
+	overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Ubuntu', sans-serif;
+}
+.container{
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.p {
+	line-height: 1.66em;
+}
+.header{
+	background: rgb(212,255,246);
+	background: linear-gradient(151deg, rgb(152, 172, 167) 0%, rgb(152, 152, 208) 49%, rgb(67, 81, 114) 100%);
+	padding-top: 65px;
+	color:  #fff;
+	padding-bottom: 100px;
+}
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+}
+.offer{
+	width: 490px;
+}
+.title{
+	font-size: 35px;
+	width: 555px;
+}
+.title span{
+	font-size: 40px;
+}
+h3{
+	color:#45656c;
+
+}
+.intro{
+	margin: 40px 0;
+	width: 390px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 1.66em;
+}
+.btn{
+	background: #37ff29;
+	color: #2e2a1b;
+	font-family: 'Montserrat', sans-serif;
+	display:  block;
+	width: 220px;	
+	padding: 20px 0;
+	text-align: center;
+	text-decoration: none;
+	transition: all 0.5s ease;
+}
+.btn:hover{
+	background: #3df590;
+}
+
+.section-title{
+	font-size: 30px;
+	text-align: center;
+}
+.future{
+	padding-top: 108px;
+	padding-bottom: 115px;
+}
+.items{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+.main{
+	width: 350px;
+	text-align: center;
+  background: bisque;
+  display: inline-block;
+  padding: 10px;
+  border: 3px solid rgb(49, 49, 65);
+  margin:20px;
+}
+.main-title{
+	font-size: 19px;
+	padding-top: 10px;
+}
+.main-text{
+	margin-top: 18px;
+font-size: 15px;;
+}
+.main-value{
+	width: 350px;
+}
+.mail{
+	background: #ecf3f8;
+	padding: 100px 0;
+}
+.form{
+	margin-top: 10px;
+}
+.input{
+	display: block;
+	margin:20px;
+	font-size: 15px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	width: 340px;
+	height: 50px;
+
+}
+.btn-form{	
+	display: block;
+	margin: auto;
+	border:  none;
+	cursor: pointer;
+	width: 340px;
+	height: 55px;
+}
+.footer{
+	background: #164d7a;
+	padding: 62px 0;
+	width: 100%;
+}
+.credits{
+	color: #ffffff;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.colorclass { 
+	color: #104360;
+	font-weight: bold;
+}
